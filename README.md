@@ -11,7 +11,6 @@ There are two releases ->
 - one for normal version (v1.0)
 - another for pro version (v2.0)
 
-
 ## Screenshots - light and dark theme
 ![Screenshot - 1](./preview/shot-1.jpg) ![Screenshot - 1](./preview/shot-1_dark.jpg)
 
@@ -26,7 +25,6 @@ There are two releases ->
 ![Screenshot - 1](./preview/shot-1_pro.jpg)
 ![Screenshot - 2](./preview/shot-2_pro.jpg)
 ![Screenshot - 3](./preview/shot-3_pro.jpg)
-
 
 ## Preview
 ### Normal version
