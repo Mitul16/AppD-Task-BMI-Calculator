@@ -7,6 +7,7 @@ Aparoksha Month - AppD Workshop Task
 
 This are two separate versions __normal__ (bmi_v1) and __pro__ (bmi_v2).
 
+
 ## Screenshots - light and dark theme
 ![Screenshot - 1](./preview/shot-1.jpg) ![Screenshot - 1](./preview/shot-1_dark.jpg)
 
