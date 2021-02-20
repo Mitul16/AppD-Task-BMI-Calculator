@@ -5,7 +5,7 @@ Aparoksha Month - AppD Workshop Task
 - Name : BMI Calculator
 - Difficulty : Medium
 
-This are two separate versions __normal__ (bmi_v1) and __pro__ (bmi_v2).
+There are two separate versions __normal__ (bmi_v1) and __pro__ (bmi_v2).
 
 
 ## Screenshots - light and dark theme
