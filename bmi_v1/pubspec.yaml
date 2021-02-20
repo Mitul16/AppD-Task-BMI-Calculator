@@ -1,0 +1,41 @@
+name: bmi_v1
+description: A simple BMI calculator
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^0.19.0
+  url_launcher: ^5.7.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: 'Shadows Into Light Two'
+      fonts:
+        - asset: assets/fonts/ShadowsIntoLightTwo-Regular.ttf
+          style: normal
+          weight: 400
+
+    - family: 'Comfortaa'
+      fonts:
+        - asset: assets/fonts/Comfortaa-Regular.ttf
+          style: normal
+          weight: 400
+
+  assets:
+    - assets/images/underweight.svg
+    - assets/images/normal.svg
+    - assets/images/fat.svg
+    - assets/images/overweight.svg
